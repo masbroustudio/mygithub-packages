@@ -15,5 +15,8 @@
     "url": "https://github.com/masbroustudio/mygithub-packages/issues"
   },
   "homepage": "https://github.com/masbroustudio/mygithub-packages#readme",
+  "publishConfig": {
+    "@masbrou:registry": "https://npm.pkg.github.com"
+  },
   "description": ""
 }
